@@ -1,0 +1,81 @@
+/* layer: preflights */
+page.data-v-83a5a03c,.data-v-83a5a03c::before,.data-v-83a5a03c::after{--un-rotate:0;--un-rotate-x:0;--un-rotate-y:0;--un-rotate-z:0;--un-scale-x:1;--un-scale-y:1;--un-scale-z:1;--un-skew-x:0;--un-skew-y:0;--un-translate-x:0;--un-translate-y:0;--un-translate-z:0;--un-pan-x: ;--un-pan-y: ;--un-pinch-zoom: ;--un-scroll-snap-strictness:proximity;--un-ordinal: ;--un-slashed-zero: ;--un-numeric-figure: ;--un-numeric-spacing: ;--un-numeric-fraction: ;--un-border-spacing-x:0;--un-border-spacing-y:0;--un-ring-offset-shadow:0 0 rgba(0,0,0,0);--un-ring-shadow:0 0 rgba(0,0,0,0);--un-shadow-inset: ;--un-shadow:0 0 rgba(0,0,0,0);--un-ring-inset: ;--un-ring-offset-width:0px;--un-ring-offset-color:#fff;--un-ring-width:0px;--un-ring-color:rgba(147,197,253,0.5);--un-blur: ;--un-brightness: ;--un-contrast: ;--un-drop-shadow: ;--un-grayscale: ;--un-hue-rotate: ;--un-invert: ;--un-saturate: ;--un-sepia: ;--un-backdrop-blur: ;--un-backdrop-brightness: ;--un-backdrop-contrast: ;--un-backdrop-grayscale: ;--un-backdrop-hue-rotate: ;--un-backdrop-invert: ;--un-backdrop-opacity: ;--un-backdrop-saturate: ;--un-backdrop-sepia: ;}
+/* layer: applet_shortcuts */
+.uno-yzon2s.data-v-83a5a03c{position:fixed;left:0rpx;z-index:10;box-sizing:border-box;height:100rpx;display:flex;flex-direction:column;--un-bg-opacity:1;background-color:rgba(247,248,250,var(--un-bg-opacity));}
+.uno-vudgs5>view.data-v-83a5a03c{display:inline-block;padding-left:30rpx;padding-right:30rpx;font-size:40rpx;line-height:100rpx;}
+.uno-vudgs5.data-v-83a5a03c{white-space:nowrap;}
+.uno-z9h2wu.data-v-83a5a03c{border-bottom-width:1px;border-bottom-style:solid;--un-border-opacity:1;--un-border-bottom-opacity:var(--un-border-opacity);border-bottom-color:rgba(239,239,239,var(--un-border-bottom-opacity));border-bottom-style:dotted;padding-top:20rpx;padding-bottom:20rpx;}
+.uno-2ds6zu.data-v-83a5a03c{text-align:center;font-size:26rpx;line-height:2em;--un-text-opacity:1;color:rgba(136,136,136,var(--un-text-opacity));}
+.uno-b5n0qf.data-v-83a5a03c{--un-text-opacity:1;color:rgba(49,194,124,var(--un-text-opacity));}
+/* layer: default */
+.fixed.data-v-83a5a03c,
+[fixed=""].data-v-83a5a03c{position:fixed;}
+.left-0.data-v-83a5a03c,
+[left-0=""].data-v-83a5a03c{left:0rpx;}
+.z-10.data-v-83a5a03c,
+[z-10=""].data-v-83a5a03c{z-index:10;}
+.mt-300rpx.data-v-83a5a03c{margin-top:300rpx;}
+.box-border.data-v-83a5a03c,
+[box-border=""].data-v-83a5a03c{box-sizing:border-box;}
+.h-100rpx.data-v-83a5a03c,
+[h-100rpx=""].data-v-83a5a03c{height:100rpx;}
+.h-full.data-v-83a5a03c,
+[h-full=""].data-v-83a5a03c{height:100%;}
+.w-360rpx.data-v-83a5a03c,
+[w-360rpx=""].data-v-83a5a03c{width:360rpx;}
+.flex.data-v-83a5a03c,
+[flex=""].data-v-83a5a03c{display:flex;}
+.flex-col.data-v-83a5a03c,
+[flex-col=""].data-v-83a5a03c{flex-direction:column;}
+.items-center.data-v-83a5a03c,
+[items-center=""].data-v-83a5a03c{align-items:center;}
+.justify-center.data-v-83a5a03c,
+[justify-center=""].data-v-83a5a03c{justify-content:center;}
+.whitespace-nowrap.data-v-83a5a03c,
+[whitespace-nowrap=""].data-v-83a5a03c{white-space:nowrap;}
+.b-b-1px.data-v-83a5a03c,
+[b-b-1px=""].data-v-83a5a03c{border-bottom-width:1px;border-bottom-style:solid;}
+.b-b-dotted.data-v-83a5a03c,
+[b-b-dotted=""].data-v-83a5a03c{border-bottom-style:dotted;}
+.p-30rpx.data-v-83a5a03c,
+[p-30rpx=""].data-v-83a5a03c{padding:30rpx;}
+.py-20rpx.data-v-83a5a03c,
+[py-20rpx=""].data-v-83a5a03c{padding-top:20rpx;padding-bottom:20rpx;}
+.pb-48px.data-v-83a5a03c,
+[pb-48px=""].data-v-83a5a03c{padding-bottom:48px;}
+.pt-130rpx.data-v-83a5a03c,
+[pt-130rpx=""].data-v-83a5a03c{padding-top:130rpx;}
+.text-center.data-v-83a5a03c,
+[text-center=""].data-v-83a5a03c{text-align:center;}
+.text-26rpx.data-v-83a5a03c,
+[text-26rpx=""].data-v-83a5a03c{font-size:26rpx;}
+.leading-2em.data-v-83a5a03c,
+[leading-2em=""].data-v-83a5a03c{line-height:2em;}
+.hide-scroll.data-v-83a5a03c ::-webkit-scrollbar {
+          width: 0;
+          height: 0;
+          color: transparent;
+          display: none;
+}
+.uno-yzon2s.data-v-83a5a03c ::-webkit-scrollbar {
+          width: 0;
+          height: 0;
+          color: transparent;
+          display: none;
+}
+[hide-scroll=""].data-v-83a5a03c ::-webkit-scrollbar {
+          width: 0;
+          height: 0;
+          color: transparent;
+          display: none;
+}
+.uno-yzon2s.data-v-83a5a03c {
+          top: calc(var(--window-top) + 0px)
+}
+.wtop-0.data-v-83a5a03c {
+          top: calc(var(--window-top) + 0px)
+}
+[wtop-0=""].data-v-83a5a03c {
+          top: calc(var(--window-top) + 0px)
+}
+      

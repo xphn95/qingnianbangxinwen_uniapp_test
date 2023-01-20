@@ -1,0 +1,37 @@
+/* layer: preflights */
+page.data-v-99b0ba47,.data-v-99b0ba47::before,.data-v-99b0ba47::after{--un-rotate:0;--un-rotate-x:0;--un-rotate-y:0;--un-rotate-z:0;--un-scale-x:1;--un-scale-y:1;--un-scale-z:1;--un-skew-x:0;--un-skew-y:0;--un-translate-x:0;--un-translate-y:0;--un-translate-z:0;--un-pan-x: ;--un-pan-y: ;--un-pinch-zoom: ;--un-scroll-snap-strictness:proximity;--un-ordinal: ;--un-slashed-zero: ;--un-numeric-figure: ;--un-numeric-spacing: ;--un-numeric-fraction: ;--un-border-spacing-x:0;--un-border-spacing-y:0;--un-ring-offset-shadow:0 0 rgba(0,0,0,0);--un-ring-shadow:0 0 rgba(0,0,0,0);--un-shadow-inset: ;--un-shadow:0 0 rgba(0,0,0,0);--un-ring-inset: ;--un-ring-offset-width:0px;--un-ring-offset-color:#fff;--un-ring-width:0px;--un-ring-color:rgba(147,197,253,0.5);--un-blur: ;--un-brightness: ;--un-contrast: ;--un-drop-shadow: ;--un-grayscale: ;--un-hue-rotate: ;--un-invert: ;--un-saturate: ;--un-sepia: ;--un-backdrop-blur: ;--un-backdrop-brightness: ;--un-backdrop-contrast: ;--un-backdrop-grayscale: ;--un-backdrop-hue-rotate: ;--un-backdrop-invert: ;--un-backdrop-opacity: ;--un-backdrop-saturate: ;--un-backdrop-sepia: ;}
+/* layer: applet_shortcuts */
+.uno-t68owj.data-v-99b0ba47{display:flex;flex-direction:column;align-items:center;justify-content:center;--un-bg-opacity:1;background-color:rgba(248,248,248,var(--un-bg-opacity));padding-top:50rpx;padding-bottom:50rpx;--un-text-opacity:1;color:rgba(102,102,102,var(--un-text-opacity));}
+.uno-z9h2wu.data-v-99b0ba47{border-bottom-width:1px;border-bottom-style:solid;--un-border-opacity:1;--un-border-bottom-opacity:var(--un-border-opacity);border-bottom-color:rgba(239,239,239,var(--un-border-bottom-opacity));border-bottom-style:dotted;padding-top:20rpx;padding-bottom:20rpx;}
+.uno-cxsvj4.data-v-99b0ba47{font-size:26rpx;--un-text-opacity:1;color:rgba(136,136,136,var(--un-text-opacity));}
+/* layer: default */
+.mb-20rpx.data-v-99b0ba47,
+[mb-20rpx=""].data-v-99b0ba47{margin-bottom:20rpx;}
+.h-150rpx.data-v-99b0ba47,
+[h-150rpx=""].data-v-99b0ba47{height:150rpx;}
+.w-150rpx.data-v-99b0ba47,
+[w-150rpx=""].data-v-99b0ba47{width:150rpx;}
+.w-450rpx.data-v-99b0ba47,
+[w-450rpx=""].data-v-99b0ba47{width:450rpx;}
+.flex.data-v-99b0ba47,
+[flex~="\~"].data-v-99b0ba47{display:flex;}
+.flex-col.data-v-99b0ba47,
+[flex~="col"].data-v-99b0ba47{flex-direction:column;}
+.items-center.data-v-99b0ba47,
+[items-center=""].data-v-99b0ba47{align-items:center;}
+.justify-center.data-v-99b0ba47,
+[justify-center=""].data-v-99b0ba47{justify-content:center;}
+.b-b-1px.data-v-99b0ba47,
+[b-b-1px=""].data-v-99b0ba47{border-bottom-width:1px;border-bottom-style:solid;}
+.b-b-dotted.data-v-99b0ba47,
+[b-b-dotted=""].data-v-99b0ba47{border-bottom-style:dotted;}
+.p-30rpx.data-v-99b0ba47,
+[p-30rpx=""].data-v-99b0ba47{padding:30rpx;}
+.py-20rpx.data-v-99b0ba47,
+[py-20rpx=""].data-v-99b0ba47{padding-top:20rpx;padding-bottom:20rpx;}
+.py-50rpx.data-v-99b0ba47,
+[py-50rpx=""].data-v-99b0ba47{padding-top:50rpx;padding-bottom:50rpx;}
+.text-26rpx.data-v-99b0ba47,
+[text-26rpx=""].data-v-99b0ba47{font-size:26rpx;}
+.text-38rpx.data-v-99b0ba47,
+[text-38rpx=""].data-v-99b0ba47{font-size:38rpx;}

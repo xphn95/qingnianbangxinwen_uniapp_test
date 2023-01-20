@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "青年帮新闻",
+  "usingComponents": {
+    "news-box": "../../components/NewsBox/NewsBox"
+  }
+}
